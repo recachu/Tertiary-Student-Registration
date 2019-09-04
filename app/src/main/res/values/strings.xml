@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TERTIARY STUDENT REGISTRATION</string>
+    <string-array name="Courses">
+        <item>BSIT</item>
+        <item>BSCS</item>
+        <item>BSCPE</item>
+        <item>BSHRM</item>
+        <item>BSHTM</item>
+        <item>ASCT</item>
+    </string-array>
+</resources>
